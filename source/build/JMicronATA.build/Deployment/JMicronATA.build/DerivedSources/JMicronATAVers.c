@@ -1,0 +1,1 @@
+ const unsigned char JMicronATAVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:JMicronATA  PROJECT:JMicronATA-1.0.3" "\n"; const double JMicronATAVersionNumber __attribute__ ((used)) = (double)1.0;
